@@ -1,6 +1,9 @@
 # Dogs-VS-Cats
 This is a Deep Learning Model to classify dogs and cats using CNN by Tensorflow and Keras.
 
+![Dogs-vs-cats](dogs-vs-cats.jpg)
+
+
 ## Data
 The Link of dataset on Kaggle: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats).
 
